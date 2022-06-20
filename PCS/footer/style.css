@@ -154,6 +154,7 @@ ul li a{
 .textwidget{
   font-size: 9px;
     line-height: 14px;
+    text-align: left;
 }
 .textwidget p{
   margin-bottom: 0;
@@ -224,4 +225,20 @@ ul li a{
     width: 100%;
     flex-wrap: wrap;
     align-content: flex-start;
+  
+}
+.location1{
+  padding: 0px 0px 24px 0px;
+  border-style: solid;
+  border-width: 0px 0px 1px 0px;
+  border-color: #666666;
+}
+.location2{
+  padding: 16px 0px 0px 0px;
+}
+
+.location-wrap .textwidget p{
+  font-family: "MuseoSans-300", Sans-serif;
+    font-size: 15px;
+    line-height: 25px;
 }
