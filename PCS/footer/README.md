@@ -14,4 +14,4 @@ We use [Vite](https://vitejs.dev/guide/) to easily have a dev server running wit
 3. To start the server and see the footer run:`npm run dev`
     This command will start a server in your local machine, normally in the port 3000.
 
-4. Finally, we just need to connect to [http://localhost:3000/](http://localhost:3000/) and check the contenct of the project
+4. Finally, we just need to connect to [http://localhost:3000/](http://localhost:3000/) and check the content of the project
