@@ -18,16 +18,7 @@ This README would normally document whatever steps are necessary to get your app
 * How to run tests
 * Deployment instructions
 
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+### Content ###
 
 #### PCS ####
 
@@ -37,6 +28,6 @@ In this [repo](https://bitbucket.org/nformal/booking/src/master/PCS) we can find
 
 [Here](https://bitbucket.org/nformal/booking/src/master/PCS/footer), we have the branding of the footer for the PCS
 
-We use Vite to easily have a dev server running with Hot Module Replacement enabled to enhance development and testing of the configuration.
+We use [Vite](https://vitejs.dev/guide/) to easily have a dev server running with Hot Module Replacement enabled to enhance development and testing of the configuration.
 
 
