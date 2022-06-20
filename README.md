@@ -7,27 +7,9 @@ This README would normally document whatever steps are necessary to get your app
 * Repository to have booking configuration versioned
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
-### How do I get set up? ###
-
-
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
 ### Content ###
+* [PCS](https://bitbucket.org/nformal/booking/src/master/PCS)
+    * [Footer](https://bitbucket.org/nformal/booking/src/master/PCS/footer)
 
-#### PCS ####
-
-In this [repo](https://bitbucket.org/nformal/booking/src/master/PCS) we can find the configuration for Personalized Career Site.
-
-##### Footer #####
-
-[Here](https://bitbucket.org/nformal/booking/src/master/PCS/footer), we have the branding of the footer for the PCS
-
-We use [Vite](https://vitejs.dev/guide/) to easily have a dev server running with Hot Module Replacement enabled to enhance development and testing of the configuration.
 
 
