@@ -6,8 +6,9 @@ We use [Vite](https://vitejs.dev/guide/) to easily have a dev server running wit
 
 ### How to use ###
 First it is needed to clone this repo in your local machine:
-`git clone https://%user_name%@bitbucket.org/nformal/booking.git`
-
+```
+git clone https://%user_name%@bitbucket.org/nformal/booking.git
+```
 Then navigate to that repo and run `npm install` to install all dependencies of the project.
 
 To start the server and see the footer run:
