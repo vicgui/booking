@@ -12,5 +12,9 @@ git clone https://%user_name%@bitbucket.org/nformal/booking.git
 Then navigate to that repo and run `npm install` to install all dependencies of the project.
 
 To start the server and see the footer run:
-`npm run dev`
-This command will start a server in your local machine, normally in the port 3000
+````
+npm run dev
+```
+This command will start a server in your local machine, normally in the port 3000.
+
+Finally, we just need to connect to [http://localhost:3000/](http://localhost:3000/) and check the contenct of the project
