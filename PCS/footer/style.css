@@ -198,6 +198,7 @@ ul li a{
   width: 82%;
   position: relative;
   display: flex;
+  flex-direction: column-reverse;
 }
 
 .elementor-social-icons-wrapper{
