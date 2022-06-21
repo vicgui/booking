@@ -92,7 +92,7 @@
     z-index: 2;
     box-sizing: border-box;
 }
-nav > ul{
+.nav1 > ul{
   align-items: flex-start;
   justify-content: flex-start;
   overflow-wrap: break-word;
@@ -104,13 +104,13 @@ nav > ul{
     margin: 0;
     padding: 0;
 }
-ul li{
+.nav1 ul li{
   margin-bottom: 8px;
   border-width: 0;
   position: relative;
 
 }
-ul li a{
+.nav1 ul li a{
 
   font-family: "MuseoSans-500", Sans-serif;
     font-size: 14px;
